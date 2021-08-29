@@ -12,9 +12,9 @@ import { ReactComponent as CartIcon } from '../../assets/images/shopping-cart.sv
 const Nav = () => (
     <Wrapper>
         <ul className="nav-group">
-            <li>Shop</li>
-            <li>About</li>
-            <li>Press</li>
+            <li><a href="#products">Shop</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#press">Press</a></li>
         </ul>
         <span className="brand-name">PSTUDIO</span>
         <div className="right">

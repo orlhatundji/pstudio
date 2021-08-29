@@ -29,6 +29,7 @@ export const Wrapper = styled.footer`
         margin-top: 24px;
         font-size: 17px;
         font-weight: 400;
+        cursor: pointer;
       }
     }
   }

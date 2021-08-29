@@ -11,7 +11,7 @@ import { Wrapper } from './style'
 import shirtImage from "../../assets/images/shirt1.png"
 
 const About = () => (
-    <Wrapper className="app-section">
+    <Wrapper id="about" className="app-section">
         
         <div className="left">
             <Slide left cascade>

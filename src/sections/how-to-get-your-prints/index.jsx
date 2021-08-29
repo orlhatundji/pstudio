@@ -29,7 +29,7 @@ const steps = [
     }
 ]
 const HowToGetYourPrints = () => (
-    <Wrapper className="app-section">
+    <Wrapper id="press" className="app-section">
         <center>How To Get Your Prints</center>
 
         <div className="print-steps">

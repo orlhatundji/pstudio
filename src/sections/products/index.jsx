@@ -24,7 +24,7 @@ const buttonStyle = {
 }
 
 const Products = () => (
-    <Wrapper className="app-section">
+    <Wrapper id="products" className="app-section">
         <center>Amazing Products</center>
         
         <div className="products">

@@ -44,6 +44,11 @@ export const Wrapper = styled.div`
                 align-items: center;
                 justify-content: center;
                 padding: 12px 20px;
+                transition: all .2s ease-in-out;
+
+                &:hover {
+                  transform: scale(0.9);
+                }
             }
         }
     }

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/pstudio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pstudio/static/js/main.3c608abe.chunk.js",
+    "main.js.map": "/pstudio/static/js/main.3c608abe.chunk.js.map",
+    "runtime-main.js": "/pstudio/static/js/runtime-main.b2b0a161.js",
+    "runtime-main.js.map": "/pstudio/static/js/runtime-main.b2b0a161.js.map",
+    "static/js/2.77c4c175.chunk.js": "/pstudio/static/js/2.77c4c175.chunk.js",
+    "static/js/2.77c4c175.chunk.js.map": "/pstudio/static/js/2.77c4c175.chunk.js.map",
+    "static/js/3.8943fff7.chunk.js": "/pstudio/static/js/3.8943fff7.chunk.js",
+    "static/js/3.8943fff7.chunk.js.map": "/pstudio/static/js/3.8943fff7.chunk.js.map",
+    "index.html": "/pstudio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pstudio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.77c4c175.chunk.js.LICENSE.txt": "/pstudio/static/js/2.77c4c175.chunk.js.LICENSE.txt",
+    "static/media/book-reader.bf93bd4f.png": "/pstudio/static/media/book-reader.bf93bd4f.png",
+    "static/media/dollar.25aac86f.svg": "/pstudio/static/media/dollar.25aac86f.svg",
+    "static/media/dontmiss.55eb4453.png": "/pstudio/static/media/dontmiss.55eb4453.png",
+    "static/media/earphone.9205af55.svg": "/pstudio/static/media/earphone.9205af55.svg",
+    "static/media/flowers.7a56f58b.png": "/pstudio/static/media/flowers.7a56f58b.png",
+    "static/media/heart.2bd93e96.svg": "/pstudio/static/media/heart.2bd93e96.svg",
+    "static/media/iphone12.5adbe5b9.png": "/pstudio/static/media/iphone12.5adbe5b9.png",
+    "static/media/line.47f63c39.svg": "/pstudio/static/media/line.47f63c39.svg",
+    "static/media/mobiles.50017db5.png": "/pstudio/static/media/mobiles.50017db5.png",
+    "static/media/more-than-prints.3cd54173.png": "/pstudio/static/media/more-than-prints.3cd54173.png",
+    "static/media/ms-surface-hub.8240993b.png": "/pstudio/static/media/ms-surface-hub.8240993b.png",
+    "static/media/pc1.6d1603b9.png": "/pstudio/static/media/pc1.6d1603b9.png",
+    "static/media/search.bf482398.svg": "/pstudio/static/media/search.bf482398.svg",
+    "static/media/shirt1.b05a8a0d.png": "/pstudio/static/media/shirt1.b05a8a0d.png",
+    "static/media/shopping-cart-red.e7ef4dbc.svg": "/pstudio/static/media/shopping-cart-red.e7ef4dbc.svg",
+    "static/media/shopping-cart.970ae18c.svg": "/pstudio/static/media/shopping-cart.970ae18c.svg",
+    "static/media/star.fbfb03d8.svg": "/pstudio/static/media/star.fbfb03d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b0a161.js",
+    "static/js/2.77c4c175.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3c608abe.chunk.js"
+  ]
+}
